@@ -66,7 +66,8 @@ described elsewhere (Miura, 2005).
 Briefly, a general assumption in the gradient method is that the total
 intensity of the image sequence is constant:
 
- (1) $$
+ (1) 
+$$
 \frac{\partial I(x, y, t)}{\partial x}u + \frac{\partial I(x, y, t)}{\partial y}v + \frac{\partial I(x, y, t)}{\partial t} = 0
 $$   
 
